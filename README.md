@@ -1,4 +1,3 @@
-# ConcreteStrength_PH1050
 # Concrete Strength: Abrams' Law vs Machine Learning
 
 **PH1050 – Foundation of Computational Physics**  
