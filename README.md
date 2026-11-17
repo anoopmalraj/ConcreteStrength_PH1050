@@ -171,8 +171,9 @@ Concrete-Strength-Abrams-vs-ML/
 ├── README.md
 ├── PH1050_Final_Project.ipynb
 ├── Project_Report.pdf
-├── Project_Presentation.pdf
-└── requirements.txt
+├── Project_Presentation.pptx
+├── Concrete_Readme.txt
+└── Concrete_Data.xls
 ```
 
 ## Team Members
